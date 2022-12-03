@@ -1,0 +1,96 @@
+body {
+    font-family: sans-serif;
+}
+header img{
+    background-color: rgb(255, 255, 255);
+}
+
+header {
+    background-color: #000080	;
+    font-size: 20px;
+}
+
+.main1{
+    color: blue;
+}
+.fes01{
+    background-color: #000080;
+    color: white;
+}
+.fes{
+    background-color: #000080;
+    color: white;
+    font-size: 20px;
+}
+header img{
+    border: 20px solid #000080	;
+}
+
+h1{
+    background-color: #0a53ef36;
+    color: rgb(0, 132, 255);
+    font-size: 20px;
+    border: 1px solid #000000;
+    border-radius: 30px;
+}
+
+footer{
+    background-color: #0a53ef36;
+    border: 20px solid #0a53ef36;
+
+    text-align: center;
+}
+footer p {
+    background-color: white;
+}
+
+nav a{
+    text-decoration: none;
+    justify-content: center;
+    margin: 20px;
+    font-size: 20px;
+    border: 2px solid navy;
+    border-radius: 35px;
+    padding: 5px;
+
+}
+
+.price{
+    color: navy;
+    margin: 10px;
+}
+
+.delivery{
+    background-color: navy;
+    color: white;
+}
+
+.wholesale{
+    background-color: navy;
+    color: white;
+}
+
+.about_us{
+        background-color: navy;
+    color: white;
+}
+
+.menu-item{
+    background-color: #0a53ef36;
+    color: black
+}
+
+h2{
+    color: blue;
+    margin: 10px;
+}
+
+.predl{
+    font-size: 20px;
+}
+
+.contact1{
+    border: 3px solid navy;
+    border-radius: 0px;
+    padding: 2px;
+}
